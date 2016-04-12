@@ -1,1 +1,2 @@
-# pd2-sudoku
+make
+make clean
